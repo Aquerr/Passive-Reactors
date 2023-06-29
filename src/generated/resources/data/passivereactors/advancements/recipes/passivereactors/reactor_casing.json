@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "passivereactors:reactor_casing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "what_is_this": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "passivereactors:passivum_gem"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "what_is_this",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "passivereactors:reactor_casing"
+    ]
+  }
+}

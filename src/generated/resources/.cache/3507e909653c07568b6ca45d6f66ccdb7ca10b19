@@ -1,0 +1,4 @@
+// 1.19.2	2023-06-28T00:44:39.4250452	PassiveReactorsLootTableProvider
+b0843634dd978cb52caf0b42a21a3407d5c14fee data/passivereactors/loot_tables/blocks/deepslate_passivum_ore.json
+f7bb3256b570c64408586723cc8854abe5b2b957 data/passivereactors/loot_tables/blocks/passivum_block.json
+ebc879af6c0060803c5e37e3f98458d69d28deea data/passivereactors/loot_tables/blocks/reactor_casing.json

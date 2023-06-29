@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "b": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "bib",
+    "bib",
+    "bib"
+  ],
+  "result": {
+    "count": 3,
+    "item": "passivereactors:reactor_casing"
+  }
+}

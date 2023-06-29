@@ -1,0 +1,7 @@
+// 1.19.2	2023-06-28T00:18:06.6895891	Block States: passivereactors
+a087c98799df092226f5d4277ddcb9b614a41647 assets/passivereactors/blockstates/deepslate_passivum_ore.json
+465a12e6f6cc43f1fc73969dfb19e053ad8ecd62 assets/passivereactors/blockstates/reactor_casing.json
+40e11fd23b90e3d0322fc3e611dff19715579d25 assets/passivereactors/models/block/deepslate_passivum_ore.json
+6e95c68a654c66de4e443384dad70e9ac3bc978b assets/passivereactors/models/block/reactor_casing.json
+9480902266d111318d2c807a054db8f029a18cfa assets/passivereactors/models/item/deepslate_passivum_ore.json
+f7976c8facdc79d72334cbe246eb9ae33edd84f5 assets/passivereactors/models/item/reactor_casing.json

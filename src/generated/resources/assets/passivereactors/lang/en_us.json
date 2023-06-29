@@ -1,0 +1,11 @@
+{
+  "block.passivereactors.deepslate_passivum_ore": "Passivum Ore",
+  "block.passivereactors.passivum_block": "Passivum Block",
+  "block.passivereactors.reactor_casing": "Reactor Casing",
+  "item.passivereactors.passivum_gem": "Passivum Gem",
+  "itemGroup.passivereactors": "Passive Reactors",
+  "passivereactors.advancements.root.description": "This gem emits a strong energy.",
+  "passivereactors.advancements.root.reactor.description": "Obtain Reactor Casing",
+  "passivereactors.advancements.root.reactor.title": "We have to hold it somewhere",
+  "passivereactors.advancements.root.title": "What is this?!"
+}

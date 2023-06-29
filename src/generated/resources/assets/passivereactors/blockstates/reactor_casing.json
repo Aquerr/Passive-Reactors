@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "passivereactors:block/reactor_casing"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "passivereactors:root/what_is_this",
+  "criteria": {
+    "reactor": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "passivereactors:reactor_casing"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "description": {
+      "translate": "passivereactors.advancements.root.reactor.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "passivereactors:reactor_casing"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "passivereactors.advancements.root.reactor.title"
+    }
+  },
+  "requirements": [
+    [
+      "reactor"
+    ]
+  ]
+}

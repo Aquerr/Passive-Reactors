@@ -1,0 +1,11 @@
+{
+  "block.passivereactors.deepslate_passivum_ore": "Ruda Passivum",
+  "block.passivereactors.passivum_block": "Blok Passivum",
+  "block.passivereactors.reactor_casing": "Obudowa Reaktora",
+  "item.passivereactors.passivum_gem": "Klejnot Passivum",
+  "itemGroup.passivereactors": "Passive Reactors",
+  "passivereactors.advancements.root.description": "Silna energia bije od tego klejnotu.",
+  "passivereactors.advancements.root.reactor.description": "Zdobądź Obudowę Reaktora",
+  "passivereactors.advancements.root.reactor.title": "Gdzieś trzeba to trzymać.",
+  "passivereactors.advancements.root.title": "Co to jest?!"
+}

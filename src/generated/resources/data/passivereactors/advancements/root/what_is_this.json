@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "what_is_this": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "passivereactors:passivum_gem"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "description": {
+      "translate": "passivereactors.advancements.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "passivereactors:passivum_gem"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "passivereactors.advancements.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "what_is_this"
+    ]
+  ]
+}
